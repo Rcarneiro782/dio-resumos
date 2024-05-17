@@ -11,7 +11,9 @@ Repositório para amazenar resumos sobre git e github do curso Versionamento de 
 
 |Aulas | Resumos|
 |------|-------|
-|Alterações no Local | [Resumos] 
+|Aula 01 | [Resumos] 
+() |
+|Aula 02 | [Resumos] 
 () |
 
 ```
